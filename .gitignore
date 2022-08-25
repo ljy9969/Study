@@ -1,9 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/linux,visualstudiocode,venv,python,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=linux,visualstudiocode,venv,python,jupyternotebooks
 
-# 한국투자증권 주식 매매 자동화
-config.yaml
-
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
